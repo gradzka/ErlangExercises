@@ -15,7 +15,7 @@ digit without 0       = “1” |  “2” |  “3” |  “4” |  “5” |  �
 </code>
 </pre>
 
-![127.0.0.1:8080?plus&6188&491&928](https://github.com/kazimierczak-robert/ErlangExercises/blob/master/SC/math_server.PNG)
+<p align="center"><img src="https://github.com/kazimierczak-robert/ErlangExercises/blob/master/SC/math_server.PNG"></p>
 
 ## dict_rest
 REST application for creating and managing a Polish-English dictionary. The available API includes methods (word ": word" is a variable meaning a word in Polish language which is the password in the dictionary):
@@ -151,7 +151,7 @@ Server methods:
 
 Adding the word "mirror" with the meaning to the dictionary:
 
-![Adding the word "mirror" with the meaning to the dictionary](https://github.com/kazimierczak-robert/ErlangExercises/blob/master/SC/dict_rest.PNG)
+<p align="center"><img src="https://github.com/kazimierczak-robert/ErlangExercises/blob/master/SC/dict_rest.PNG"></p>
 
 ## ws_calc
 Client-server appliacation using WebSocket protocol that reconstructs th operation of a simple calculator operating on a set of real numbers. The server provides mathematical operations:
@@ -166,7 +166,7 @@ Client-server appliacation using WebSocket protocol that reconstructs th operati
 
 An equality operator completes calculations and displays the final result or reset calculations (AC). The client is an HTTP site with JavaScript scripts used to communicate with the server.
 
-![Client app](https://github.com/kazimierczak-robert/ErlangExercises/blob/master/SC/ws_calc.png)
+<p align="center"><img src="https://github.com/kazimierczak-robert/ErlangExercises/blob/master/SC/ws_calc.png"></p>
   
 ## Attributions
 - http://davekuhlman.org/cowboy-rest-add-get-update-list.html
